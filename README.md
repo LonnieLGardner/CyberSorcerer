@@ -1,5 +1,5 @@
 # SRA
-Security Research Academy
+CyberSorcerer's Security
 
 Welcome to Security Research Academy and it's great that you are interested in learning and getting into the security field.
 
