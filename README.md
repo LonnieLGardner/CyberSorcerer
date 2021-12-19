@@ -1,4 +1,4 @@
-# SRA
+# CyberSorcerer
 CyberSorcerer's Security
 
 Welcome to CyberSorcerer's Security channel and it's great that you are interested in learning and getting into the security field.
